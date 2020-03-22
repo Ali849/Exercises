@@ -1,2 +1,2 @@
-# Project
-there are some projects
+# Exercises
+there are some Exercises (Python edition)
