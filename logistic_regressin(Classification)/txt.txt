@@ -1,1 +1,1 @@
-logistic_regression
+logistic_regression(Classification)
