@@ -1,2 +1,2 @@
 # Exercises
-there are some Exercises (Python edition)
+there are some Exercises (Python)
